@@ -2,6 +2,8 @@
 
 # Welcome to the UofG Hyperloop software team!
 
+We are a small group of engineering and computing science students from the University of Glasgow. Our team's aim is to write the software for our Hyperloop entry - from code for microcontrollers to implementing LoRa communications.
+
 ## Sub teams
 - Network Acces Panel [link](sensor_subTeam)
 - Sensors and callibration [link](lora_subTeam)
