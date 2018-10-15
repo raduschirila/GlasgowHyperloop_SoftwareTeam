@@ -1,3 +1,5 @@
+![Hyperloop header](docs/header.png)
+
 # Welcome to the UofG Hyperloop software team!
 ## Sub teams
 - Network Acces Panel [link](sensor_subTeam)
