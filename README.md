@@ -9,22 +9,23 @@
 
 ## Team members
 **Team leader**
-Angus Bruce
+
+- Angus Bruce
 
 **Network Access Panel Sub-team**
 
-Basel Shehabi
-Mark Re
+- Basel Shehabi
+- Mark Re
 
 
 **Sensors and callibration Sub-team**
 
-Patrik Pavol Pauliny
-Andrew Finlayson
+- Patrik Pavol Pauliny
+- Andrew Finlayson
 
 
 **CAN Bus Implementation Sub-team**
 
-Jan-Hendrik Ewers
-Mario Geuenich
+- Jan-Hendrik Ewers
+- Mario Geuenich
 
