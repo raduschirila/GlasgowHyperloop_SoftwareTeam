@@ -8,18 +8,23 @@
 - CAN implementation [link](CAN_subTeam)
 
 ## Team members
-*Team leader* 
+**Team leader**
 Angus Bruce
 
-*Network Access Panel Sub-team*
+**Network Access Panel Sub-team**
+
 Basel Shehabi
 Mark Re
 
-*Sensors and callibration Sub-team*
+
+**Sensors and callibration Sub-team**
+
 Patrik Pavol Pauliny
 Andrew Finlayson
 
-*CAN Bus Implementation Sub-team*
+
+**CAN Bus Implementation Sub-team**
+
 Jan-Hendrik Ewers
 Mario Geuenich
 
