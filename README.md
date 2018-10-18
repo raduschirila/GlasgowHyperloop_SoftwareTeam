@@ -30,4 +30,5 @@ We are a small group of engineering and computing science students from the Univ
 
 - Jan-Hendrik Ewers
 - Mario Geuenich
+- Josep Perna
 
